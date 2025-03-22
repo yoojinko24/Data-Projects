@@ -49,6 +49,7 @@
 
 3. **데이터셋 준비**  
     - 해당 프로젝트는 **개인 Google Drive**에 데이터셋을 업로드해야 합니다.
+    - 사용되는 데이터셋은 https://drive.google.com/drive/folders/1-7101NUWIdqHB_yAEAKKPxm3VBEGCc_Z?usp=sharing 에서 다운받으실 수 있습니다.
     - 데이터를 저장한 위치에 따라 **파일 경로 수정**이 필요합니다. 프로그램 제작 시 이용한 경로인 '/content/gdrive/My Drive/Colab Notebooks/23-1 초급파데분 팀플/데이터 모음/'에서, My Drive 뒤의 경로는 사용자가 파일을 다운로드한 위치에 따라 변경합니다.
 
 4. **폰트 설치**
