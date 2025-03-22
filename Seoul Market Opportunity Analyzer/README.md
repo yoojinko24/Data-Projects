@@ -33,7 +33,7 @@
 1. **Raw 파일을 구글 드라이브-Colab Notebooks에 다운로드**  
 
 2. **Google Colab에서 프로젝트 실행**  
-    - Colab에 접속 후 `Seoul Market Opportunity Analyzer.ipynb` 파일을 열어 실행합니다.
+    - Colab에 접속 후 `9조_블루오션_지역_추천_서비스_프로그램_완성본.ipynb` 파일을 열어 실행합니다.
 
 3. **데이터셋 준비**  
     - 해당 프로젝트는 **개인 Google Drive**에 데이터셋을 업로드해야 합니다.  
